@@ -1,5 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=prasetyowira&show_icons=true"> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=prasetyowira&show_icons=true&include_all_commits=true&rank_icon=github"> 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prasetyowira&layout=compact)
 ## Hi there I'm Prasetyo Wira 👋
 
 [![ariwira.me](https://img.shields.io/static/v1?label=Website&message=%20&logo=Ruby&style=flat-square&logoColor=white)](https://prasetyowira.github.io)
