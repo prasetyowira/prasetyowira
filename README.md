@@ -6,8 +6,8 @@
 
 ## Hi there, I'm Prasetyo Wira! 👋
 
-[![ariwira.me](https://img.shields.io/static/v1?label=Website&message=%20&logo=Ruby&style=flat-square&logoColor=white)](https://prasetyowira.github.io)
-[![email](https://img.shields.io/static/v1?label=Email&message=%20&logo=Gmail&style=flat-square&logoColor=white)](mailto:prasetyowira@gmail.com)
+[![ariwira.me](https://img.shields.io/static/v1?label=Website&message=%20&logo=Ruby&style=flat-square&logoColor=white)](https://ariwira.me)
+[![email](https://img.shields.io/static/v1?label=Email&message=%20&logo=Gmail&style=flat-square&logoColor=white)](mailto:hello@ariwira.com)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&logo=LinkedIn&style=flat-square&logoColor=blue)](https://www.linkedin.com/in/ariwira/)
 
 
@@ -32,7 +32,7 @@ I'm a **Backend Engineer** who loves building scalable, high-performance systems
 - Feel free to reach out if you have interesting ideas or projects!
 
 ### 📫 Connect with me:
-- Email: [prasetyowira@gmail.com](mailto:prasetyowira@gmail.com)
+- Email: [prasetyowira@gmail.com](mailto:hello@ariwira.me)
 - LinkedIn: [Ariwira](https://www.linkedin.com/in/ariwira)
 
 ### ⚡ Fun Facts:
