@@ -32,7 +32,7 @@ I'm a **Backend Engineer** who loves building scalable, high-performance systems
 - Feel free to reach out if you have interesting ideas or projects!
 
 ### 📫 Connect with me:
-- Email: [prasetyowira@gmail.com](mailto:hello@ariwira.me)
+- Email: [hello@ariwira.me](mailto:hello@ariwira.me)
 - LinkedIn: [Ariwira](https://www.linkedin.com/in/ariwira)
 
 ### ⚡ Fun Facts:
