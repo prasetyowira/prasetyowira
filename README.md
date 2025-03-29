@@ -1,5 +1,4 @@
 <a href="https://github.com/prasetyowira">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=prasetyowira&show_icons=true&include_all_commits=true&rank_icon=github&theme=dark" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasetyowira&layout=compact&hide=blade,html,CSS,makefile&&size_weight=0.5&count_weight=0.5" />
 </a>
 
